@@ -1,0 +1,40 @@
+.imagem-carrossel-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 600px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+    height: 600px;
+}
+
+.texto-carrossel {
+    font-family: 'Pacifico', cursive;
+}
+
+.texto-cor-especial {
+    color: #732024;
+}
+
+.botao-cor-especial {
+    background-color: #732024;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: #732024;
+}
+
+.botao-cor-especial:hover {
+    background-color: #732024;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-largura {
+    max-width: 18rem;
+}
